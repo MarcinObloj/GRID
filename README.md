@@ -31,7 +31,7 @@ Sklonuj repozytorium:
 
 <h3 style="text-decoration: underline;">Strona Główna</h2>
 
-![Opis zdjęcia]([https://i.imgur.com/FrUR9Uj.png](https://i.imgur.com/U6PYis6.png))
+![Opis zdjęcia](https://i.imgur.com/U6PYis6.png)
 
 Autor
 Marcin Obłój

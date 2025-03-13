@@ -30,7 +30,10 @@ Sklonuj repozytorium:
 <h2 style="text-decoration: underline;">Przegląd Aplikacji</h2>
 
 <h3 style="text-decoration: underline;">Strona Główna</h2>
-![MainPage](https://i.imgur.com/FrUR9Uj.png)
+
+Strona Główna: 
+![Opis zdjęcia](https://i.imgur.com/FrUR9Uj.png)
+
 Autor
 Marcin Obłój
 
